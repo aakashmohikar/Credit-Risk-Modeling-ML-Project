@@ -133,11 +133,6 @@ The project requires the following key libraries:
 
 All dependencies are listed in `requirements.txt` for easy installation.
 
-### **Customizations**
-- To use a different machine learning model, replace `model_data.pkl` with your serialized model and adjust the features in `utils.py`.
-- Update the interface in `main.py` to reflect any changes to the inputs or outputs.
-
----
 
 
 
