@@ -31,9 +31,6 @@ This project aims to develop a machine learning model to predict default risk, e
 
     ![FI](https://github.com/nafiul-araf/Credit-Risk-Modeling-End-to-End-Project/blob/main/images/Feature%20importance.png)
 
-  - LIME (local interpretability)
-
-    ![lime](https://github.com/nafiul-araf/Credit-Risk-Modeling-End-to-End-Project/blob/main/images/Lime.JPG)
 
 ### Key Results
 - The model demonstrates superior ability to classify defaults with high precision and recall.
