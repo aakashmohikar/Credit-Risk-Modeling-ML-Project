@@ -3,7 +3,10 @@ from prediction_helper import predict  # Ensure this is correctly linked to your
 
 # Set the page configuration and title
 st.set_page_config(page_title="Credit Risk Modelling", page_icon="📊")
-st.title("Credit Risk Modelling")
+# Center the title using HTML and CSS
+st.markdown("""
+    <h1 style='text-align: center;'>Credit Risk Modelling</h1>
+    """, unsafe_allow_html=True)
 
 # Create rows of three columns each
 row1 = st.columns(3)
